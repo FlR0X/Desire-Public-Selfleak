@@ -1,0 +1,7 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Release\) contains files shared from another project (private.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+  SonyDriverHelper.lib(StaticLib1.obj) : MSIL .netmodule or module compiled with /GL found; restarting link with /LTCG; add /LTCG to the link command line to improve linker performance
+  Generating code
+  Finished generating code
+SonyDriverHelper.lib(StaticLib1.obj) : warning LNK4099: PDB '' was not found with 'SonyDriverHelper.lib(StaticLib1.obj)' or at ''; linking object as if no debug info
+  public.vcxproj -> C:\Users\fanof\Documents\Desire\Desire\public\x64\Release\big balls nigga.exe
